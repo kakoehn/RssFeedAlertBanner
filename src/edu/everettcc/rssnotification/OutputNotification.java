@@ -25,6 +25,7 @@ public class OutputNotification {
 	/**
 	 * @param size
 	 * @return
+         * comment!
 	 */
 	private static Point windowLocation(Dimension size)
 	{
