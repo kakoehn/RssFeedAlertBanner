@@ -13,7 +13,7 @@ import java.util.Locale;
  * The RssDate object is used for handling the publish date of Rss items.
  */
 public class RssDate {
-
+//some stuff
 	String pubDate;
 	
 	
